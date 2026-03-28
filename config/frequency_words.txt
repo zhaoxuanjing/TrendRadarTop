@@ -148,15 +148,14 @@
 # ───────────────────────────────────────────────────────────────
 
 [WORD_GROUPS]
-AI
-SD
-MJ
-AI漫剧
-漫剧
-Seedance
-红果
 
-/深度求索|幻方量化|梁文锋|\bDeepSeek\b/ => DeepSeek
+Kimi智能体、文心智能体、智谱清言智能体、通义智能体、扣子Coze、Dify、FastGPT、MetaGPT、AutoGen、CrewAI、LangGraph => AI智能体平台
+
+Sora、Runway、Pika Labs、Stable Video、Veo、Movie Gen、Nova Reel、PixVerse、Synthesia、HeyGen、InVideo AI、Pictory、Fliki、Lumen5、Kaiber、Moonvalley、Genmo Replay、Luma AI、Hailuo AI、Kling AI、可灵AI、VIDU、腾讯智影、MOKI、剪映AI、即梦AI、度加剪辑、一帧秒创、巨日禄AI、海螺AI => 视频生成
+
+Midjourney、DALL·E、Stable Diffusion、Imagen、Leonardo.Ai、Flux.1 AI、Ideogram、Recraft、Adobe Firefly、Bing Image Creator、Canva AI、文心一格、秒画AI、Vega AI、无界AI、通义万相、智谱清言AI绘画、奇遇AI、MewxAI、搜狐简单AI => 图像生成
+
+/深度求索|幻方量化|梁文锋|\DeepSeek\b/ => DeepSeek
 
 /华为|任正非|余承东|鸿蒙|海思|昇腾|鲲鹏|\bHUAWEI\b|\bHarmonyOS\b|\bHiSilicon\b/ => 华为
 
@@ -187,6 +186,7 @@ Seedance
 国产
 中国
 美国
+全球
 
 
 # ═══════════════════════════════════════════════════════════════
